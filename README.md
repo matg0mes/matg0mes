@@ -28,11 +28,7 @@
 
 Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Graduated in technology, I love innovation and working with software engineering since I was 17 years old. I'm currently unveiling Blockchain, AI and IOT concepts.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="340" height="240" />
-Leaving a bit of the "letter soup" and the professional, I am a person in love with Geek culture and in my free time I practice violin, harmonica and guitar, ride a bike and when we get out of this pandemic I will do Muay Thai again. I love philosophy and read when I can the works of philosophers like Nietzche and Immanuel Kant. This is me! :D
-
-<br />
-<br />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="400" height="300" />
 
 **Languages and Tools:**  
 
@@ -49,9 +45,10 @@ Leaving a bit of the "letter soup" and the professional, I am a person in love w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br />
-<br />
-<br />
+<p> 📈 My GitHub Stats </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&hide=html,css,scss&layout=default&theme=dracula" alt="matg0mes" /> </p>
 
 <p> 📈 My GitHub Stats </p>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=matg0mes&show_icons=true&theme=dracula" alt="matg0mes" /> </p>
+
+
