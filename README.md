@@ -28,7 +28,7 @@
 
 Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Graduated in technology, I love innovation and working with software engineering since I was 17 years old. I'm currently unveiling Blockchain, AI and IOT concepts.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="400" height="300" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="500" height="380" />
 
 **Languages and Tools:**  
 
@@ -44,11 +44,24 @@ Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Gradua
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p> 📈 My GitHub Stats </p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&hide=html,css,scss&layout=default&theme=dracula" alt="matg0mes" /> </p>
+<p  align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&hide=html,css,scss&layout=default&theme=dracula" alt="matg0mes" /> </p>
 
-<p> 📈 My GitHub Stats </p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=matg0mes&show_icons=true&theme=dracula" alt="matg0mes" /> </p>
+<br />
 
-
+<table>
+  <tr>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=matg0mes&show_icons=true&theme=dracula" alt="matg0mes" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=matg0mes&show_icons=true&theme=dracula" alt="matg0mes" /></td>
+  </tr>  
+</table>
