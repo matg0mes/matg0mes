@@ -28,7 +28,9 @@
 
 Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Graduated in technology, I love innovation and working with software engineering since I was 17 years old. I'm currently unveiling Blockchain, AI and IOT concepts.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="500" height="380" />
+<br />
+
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="450" height="380" /> --->
 
 ### Languages and Tools: 
 
@@ -61,16 +63,27 @@ Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Gradua
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 
-<p  align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&hide=html,css,scss&layout=default&theme=gruvbox&bg_color=DEG,0f0c29,302b63,0f0c29&hide_border=true" alt="matg0mes" /> </p>
+<p  align="center"> </p>
 
-<br />
+## :trophy: Github Metrics and Achievements
 
-<table>
-  <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=matg0mes&show_icons=true&theme=gruvbox&bg_color=DEG,0f0c29,302b63,0f0c29&hide_border=true" alt="matg0mes" /></td>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matg0mes&layout=default&theme=gruvbox&bg_color=DEG,0f0c29,302b63,0f0c29&hide_border=true&custom_title=Matheus+Gomes'+Wakatime+(This+Week)" alt="matg0mes" /></td>
-  </tr>  
-</table>
+<p align="center">
+  <a href="https://github.com/matg0mes">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=matg0mes&theme=dracula&row=2&column=3" alt="matg0mes" />
+  </a>
+  <a href="https://github.com/matg0mes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matg0mes&show_icons=true&theme=dracula" alt="matg0mes" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/matg0mes">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matg0mes&layout=defaul&theme=dracula&custom_title=Hours+Per+Language+(This+Week)"   alt="matg0mes"/>
+  </a>
+  <a href="https://github.com/matg0mes">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&langs_count=3&layout=defaul&theme=dracula" alt="matg0mes" />
+  </a>
+</p>
 
 <hr />
 
