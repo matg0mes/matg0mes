@@ -30,7 +30,7 @@ Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Gradua
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="500" height="380" />
 
-**Languages and Tools:**  
+### Languages and Tools: 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
