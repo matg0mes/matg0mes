@@ -61,14 +61,14 @@ Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Gradua
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 
-<p  align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&hide=html,css,scss&layout=default&theme=dracula" alt="matg0mes" /> </p>
+<p  align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&hide=html,css,scss&layout=default&theme=gruvbox&bg_color=DEG,0f0c29,302b63,0f0c29&hide_border=true" alt="matg0mes" /> </p>
 
 <br />
 
 <table>
   <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=matg0mes&show_icons=true&theme=dracula" alt="matg0mes" /></td>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matg0mes&layout=default&theme=dracula&custom_title=Matheus+ Gomes'+Wakatime+(This+Week)" alt="matg0mes" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=matg0mes&show_icons=true&theme=gruvbox&bg_color=DEG,0f0c29,302b63,0f0c29&hide_border=true" alt="matg0mes" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matg0mes&layout=default&theme=gruvbox&bg_color=DEG,0f0c29,302b63,0f0c29&hide_border=true&custom_title=Matheus+Gomes'+Wakatime+(This+Week)" alt="matg0mes" /></td>
   </tr>  
 </table>
 
