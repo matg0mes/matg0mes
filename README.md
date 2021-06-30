@@ -74,4 +74,4 @@ Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Gradua
 
 <hr />
 
-<p  align="right">Made with ❤️ by matg0mes.</p>
+<p  align="right">Made with ❤️ by <a href="https://github.com/matg0mes">matg0mes</a>.</p>
