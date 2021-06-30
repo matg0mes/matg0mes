@@ -19,14 +19,17 @@
 </a>
 
 <span align="right">
-
+  
   ![](https://visitor-badge.glitch.me/badge?page_id=matg0mes.matg0mes)
 
 </span>
 
-<br />
+<p align="center">
+  <a href="https://github.com/matg0mes">
+    <img src="https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=800&height=80&lines=Developer+from+Brazil.;Innovation+lover.;21+years+old.;3+years+of+coding.">
+  </a>
+</p>
 
-Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Graduated in technology, I love innovation and working with software engineering since I was 17 years old. I'm currently unveiling Blockchain, AI and IOT concepts.
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="400" height="320" /> -->
 
