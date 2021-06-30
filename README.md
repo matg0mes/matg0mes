@@ -65,7 +65,7 @@ Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Gradua
 
 <p align="center">
   <a href="https://github.com/matg0mes">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matg0mes&layout=compact&theme=tokyonight&hide_border=true&custom_title=Hours+Per+Language+(This+Week)"   alt="matg0mes"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matg0mes&layout=compact&theme=tokyonight&hide_border=true&custom_title=Wakatime+Stats+(Last+7+Days)"   alt="matg0mes"/>
   </a>
 </p>
 
