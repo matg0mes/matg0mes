@@ -28,7 +28,7 @@
 
 Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Graduated in technology, I love innovation and working with software engineering since I was 17 years old. I'm currently unveiling Blockchain, AI and IOT concepts.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="450" height="380" /> 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="400" height="320" /> 
 
 ### Languages and Tools: 
 
