@@ -28,8 +28,6 @@
 
 Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Graduated in technology, I love innovation and working with software engineering since I was 17 years old. I'm currently unveiling Blockchain, AI and IOT concepts.
 
-<br />
-
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="450" height="380" /> --->
 
 ### Languages and Tools: 
@@ -62,8 +60,6 @@ Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Gradua
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-
-<p  align="center"> </p>
 
 ## :trophy: Github Metrics and Achievements
 
