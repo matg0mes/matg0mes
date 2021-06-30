@@ -28,9 +28,9 @@
 
 Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Graduated in technology, I love innovation and working with software engineering since I was 17 years old. I'm currently unveiling Blockchain, AI and IOT concepts.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="400" height="320" /> 
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true" width="400" height="320" /> -->
 
-### Languages and Tools: 
+## :wrench: Languages and Tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -63,15 +63,13 @@ Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Gradua
 
 <br />
 
-<a href="https://github.com/matg0mes">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matg0mes&layout=compact&theme=tokyonight&custom_title=Hours+Per+Language+(This+Week)"   alt="matg0mes"/>
-</a>
+<p align="center">
+  <a href="https://github.com/matg0mes">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matg0mes&layout=compact&theme=tokyonight&hide_border=true&custom_title=Hours+Per+Language+(This+Week)"   alt="matg0mes"/>
+  </a>
+</p>
 
-<br />
-<br />
-<br />
-
-## :trophy: Github Stats
+## :chart_with_upwards_trend: Github Stats
 <p align="center">
   <a href="https://github.com/matg0mes">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=matg0mes&theme=tokyonight&hide_border=true" alt="matg0mes" />
@@ -80,10 +78,10 @@ Hi, my name is Matheus Gomes. I am born and raised in São Paulo, Brazil. Gradua
 
 <p align="center">
   <a href="https://github.com/matg0mes">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&langs_count=8&hide=html,css,scss&layout=compact&theme=tokyonight" alt="matg0mes" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&langs_count=6&hide_border=true&hide=html,css,scss&layout=compact&theme=tokyonight" alt="matg0mes" />
   </a>
   <a href="https://github.com/matg0mes">
-    <img src="https://github-readme-stats.vercel.app/api?username=matg0mes&show_icons=true&theme=tokyonight" alt="matg0mes" />
+    <img src="https://github-readme-stats.vercel.app/api?username=matg0mes&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight" alt="matg0mes" />
   </a>
 </p>
 
