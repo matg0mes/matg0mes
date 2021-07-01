@@ -17,6 +17,9 @@
 <a href="https://www.youtube.com/channel/UCYD95Y-GKwB7phX8VHhyRKg">
   <img align="left" alt="Matheus Gomes' YT Channel" width="22px" src="https://image.flaticon.com/icons/png/512/174/174883.png" />
 </a>
+<a href="https://open.spotify.com/user/31gqe42xc53wqav6fexvi6krrtry">
+  <img align="left" alt="Matheus Gomes' YT Channel" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111624.png" />
+</a>
 
 <span align="right">
   
