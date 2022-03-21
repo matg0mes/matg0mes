@@ -8,18 +8,6 @@
 <a href="https://www.linkedin.com/in/matg0mes/">
   <img align="left" alt="Matheus Gomes' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100006180642268">
-  <img align="left" alt="Matheus Gomes' Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/174/174848.png" />
-</a>
-<a href="https://br.pinterest.com/matg0mes">
-  <img align="left" alt="Matheus Gomes' Pinterest" width="22px" src="https://image.flaticon.com/icons/png/512/174/174863.png" />
-</a>
-<a href="https://www.youtube.com/channel/UCYD95Y-GKwB7phX8VHhyRKg">
-  <img align="left" alt="Matheus Gomes' YT Channel" width="22px" src="https://image.flaticon.com/icons/png/512/174/174883.png" />
-</a>
-<a href="https://open.spotify.com/user/31gqe42xc53wqav6fexvi6krrtry">
-  <img align="left" alt="Matheus Gomes' YT Channel" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111624.png" />
-</a>
 
 <span align="right">
   
