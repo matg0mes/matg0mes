@@ -87,10 +87,10 @@
 <p align="center">
   
   <a href="https://github.com/matg0mes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&langs_count=6&hide_border=true&hide=html,css,scss&layout=compact&theme=tokyonight" alt="matg0mes" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&langs_count=6&hide_border=true&hide=html,css,scss&layout=compact&theme=tokyonight" alt="matg0mes" />
   </a>
   <a href="https://github.com/matg0mes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matg0mes&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight" alt="matg0mes" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matg0mes&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight" alt="matg0mes" />
   </a>
   
 </p>
