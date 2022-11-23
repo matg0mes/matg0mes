@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/matg0mes">
-    <img src="https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=800&height=80&lines=Developer+from+Brazil.;Innovation+lover.;21+years+old.;3+years+of+coding.">
+    <img src="https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=800&height=80&lines=Developer+from+Brazil.;Innovation+lover.;22+years+old.;5+years+of+coding.">
   </a>
 </p>
 
