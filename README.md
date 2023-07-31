@@ -6,7 +6,7 @@
 </h1>
 
 <a href="https://www.linkedin.com/in/matg0mes/">
-  <img align="left" alt="Matheus Gomes' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Matheus Gomes' LinkedIN" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <span align="right">
