@@ -5,10 +5,6 @@
    Welcome! :fox_face::punch:
 </h1>
 
-<a href="https://www.linkedin.com/in/matg0mes/">
-  <img align="left" alt="Matheus Gomes' LinkedIN" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <span align="right">
   
   ![](https://visitor-badge.glitch.me/badge?page_id=matg0mes.matg0mes.1)
